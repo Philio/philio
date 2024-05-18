@@ -18,5 +18,3 @@ Here are some ideas to get you started:
 ![GitHub Readme Stats](https://github-readme-stats-three-beryl-77.vercel.app/api?username=philio)
 
 ![Top Langs](https://github-readme-stats-three-beryl-77.vercel.app/api/top-langs/?username=philio&layout=donut-vertical)
-
-![WakaTime stats](https://github-readme-stats-three-beryl-77.vercel.app/api/wakatime?username=philio)
